@@ -34,3 +34,7 @@ flutter pub get
 flutter pub global activate rename
 dart run rename --bundleId new.bundle.id
 ```
+
+# ToDo
+- Write test cases
+- Write shortcut for running variation change commands
